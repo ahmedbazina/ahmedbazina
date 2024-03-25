@@ -1,5 +1,5 @@
 # 👨🏽‍💻About Me:
-My name is Ahmed Bazina, I am a computer science graduate with first class degree.<br>I enjoy working on fun project and challenging ideas that require problem solving like a murder investigation.<br><br>I am currently learning React and Flutter as these 2 interest me as i would like one day to build a mobile app using web frameworks  
+My name is Ahmed Bazina, I am a computer science graduate with first class degree.<br>I enjoy working on fun project and challenging ideas that require problem solving.<br><br>I am currently learning React, Kubernetes, Docker, Terraform and jenkins as these tech stack interest me right now in addition to small side project to do with automation and data.
 
 
 ## 🌐 Socials:
